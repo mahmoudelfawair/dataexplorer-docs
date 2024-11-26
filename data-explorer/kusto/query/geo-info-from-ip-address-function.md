@@ -70,8 +70,3 @@ print ip_location=geo_info_from_ip_address('20.53.203.50')
 print ip_location=geo_info_from_ip_address('2a03:2880:f12c:83:face:b00c::25de')
 ```
 
-**Output**
-
-|ip_location|
-|--|
-|`{"country": "United States", "state": "Florida", "city": "Boca Raton", "latitude": 26.3594, "longitude": -80.0771}`|
